@@ -1,4 +1,4 @@
-# Predicting Credit Risk (Supervised-ML)
+# Predicting Credit Risk
 The purpose of this project is to build a machine learning model that attempts to predict whether a loan from [LendingClub](https://en.wikipedia.org/wiki/LendingClub) will become high risk or not, and classify the risk levels by comparing the `Logistic Regression` and `Random Forest Classifier` models.
 
 ## Data Retrieval
