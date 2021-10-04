@@ -8,9 +8,7 @@ Within the `Resources/Generator` folder, there is a [GenerateData.ipynb](https:/
 Create a training set from the 2019 loans and a testing set from the 2020 loans using `pd.get_dummies()` to convert the categorical data to numeric columns. Use code to fill in the missing categories in the testing set to avoid errors when fitting a model to the training set and score it on the testing set.
 
 ## Consider the models: Prediction and comparison
-First, write down your prediction in the [Jupyter Notebook](https://github.com/toshitorihara/Supervised-ML-Challenge/blob/main/Resources/Generator/GenerateData.ipynb) for which model would perform better than the other.<p>
-
-Create, fit, and score each of the two models on this data. (choose any starting hyperparameters of preference) Write down your results and thoughts for which model performed better, and how does that compare to your prediction.
+First, write down your prediction in the [Jupyter Notebook](https://github.com/toshitorihara/Supervised-ML-Challenge/blob/main/Resources/Generator/GenerateData.ipynb) for which model would perform better than the other. Create, fit, and score each of the two models on this data. Write down your results and thoughts for which model performed better, and how does that compare to your prediction.
 
 ## Revisit the Preprocessing: Scale the data
 Use `StandardScaler` to scale the training and testing sets. Before re-fitting the models on the scaled data, make another prediction about how you think scaling will affect the accuracy of the models. Write your predictions down and provide justification.<p>
